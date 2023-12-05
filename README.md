@@ -22,8 +22,10 @@ Loop icons animate continuously.
 Download the /src/studio-icons_beta.js file and place it in the config/www folder in you homeassistant installation.
 Then add to `configuration.yaml`:
 
-`frontend:
+```
+frontend:
   extra_module_url:
-    - /local/studio-icons_beta.js`
+    - /local/studio-icons_beta.js
+```
 
 Restart Home Assistant.
