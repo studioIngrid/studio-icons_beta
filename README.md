@@ -9,12 +9,14 @@ Looking for animators to help with the project.
 In the default icon picker, start the search with 'sis:'. 
 State icons, animate when the state is on, or when you hover over the icon.
 
-![Preview](https://github.com/studioIngrid/studio-icons_beta/blob/main/docs/studio-icons-sil.gif)
+![Preview](https://github.com/studioIngrid/studio-icons_beta/blob/main/docs/studio-icons-sis.gif)
 
 #### Studio icons loop
 
 In the default icon picker, start the search with 'sil:'. 
 Loop icons animate continuously.
+
+![Preview](https://github.com/studioIngrid/studio-icons_beta/blob/main/docs/studio-icons-sil.gif)
 
 ## To install
 Download the /src/studio-icons_beta.js file and place it in the config/www folder in you homeassistant installation.
