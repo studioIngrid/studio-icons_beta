@@ -9,6 +9,8 @@ Looking for animators to help with the project.
 In the default icon picker, start the search with 'sis:'. 
 State icons, animate when the state is on, or when you hover over the icon.
 
+![Preview](https://github.com/studioIngrid/studio-icons_beta/tree/main/docs/studio-icons-sil.gif)
+
 #### Studio icons loop
 
 In the default icon picker, start the search with 'sil:'. 
