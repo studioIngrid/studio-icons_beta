@@ -19,7 +19,7 @@ Loop icons animate continuously.
 ![Preview](https://github.com/studioIngrid/studio-icons_beta/blob/main/docs/studio-icons-sil.gif)
 
 ## To install
-Download the /src/studio-icons_beta.js file and place it in the config/www folder in you homeassistant installation.
+Download the `/src/studio-icons_beta.js` file and place it in the `config/www` folder in you Home Assistant installation.
 Then add to `configuration.yaml`:
 
 ```
