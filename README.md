@@ -1,7 +1,7 @@
 # Studio icons BETA
 
 Animated icons for Home Assistant. This is a BETA version.
-I animated some icons, more will follow. 
+I animated some icons, more will follow.
 Looking for animators to help with the project.
 
 #### Studio icons state
