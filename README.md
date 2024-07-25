@@ -4,7 +4,7 @@ Animated icons for Home Assistant. This is a BETA version.
 I animated some icons, more will follow.
 Looking for animators to help with the project.
 
-⚠️ Af of july I noticed a jitter in the animation. I do not have time to fix this, so the project is suspended. When you have time for a collaboration, let me know. ⚠️
+⚠️ As of july I noticed a jitter in the animation. I do not have time to fix this, so the project is suspended. When you have time for a collaboration, let me know. ⚠️
 
 #### Studio icons state
 
